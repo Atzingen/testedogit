@@ -1,3 +1,3 @@
 # testedogit
 
-Adicionada uma linha do programa
+Adicionada uma linha do programa.
